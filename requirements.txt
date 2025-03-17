@@ -1,0 +1,6 @@
+yfinance==0.2.12
+pandas==1.5.3  # or you could use 1.4.x if you encounter issues
+streamlit==1.20.0
+python-telegram-bot==20.1
+TA-Lib==0.6.3
+tablib==3.0.0
